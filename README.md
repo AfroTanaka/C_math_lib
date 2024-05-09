@@ -13,3 +13,10 @@ int main()
 	printf("hello world")
 }
 ```
+
+```rs
+fn main ()
+{
+	println!("hello world");
+}
+```
